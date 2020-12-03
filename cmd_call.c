@@ -4,11 +4,14 @@
 
 int main(int argc, char*argv[])
 {
-    if(argc != 2)
+    if(argc != 3)
     {
         printf("Format is not correct!\n");
     }
     char str[] = "certutil -hashfile ";
-    system(strncat(str, argv[1], 256));
+    char shift[] = " ";
+    char* arg = strcat(argv[1], shift);
+    char* Arg = strcat(arg, argv[2]);
+    system(strcat(str, Arg));
     return 0;
 }
