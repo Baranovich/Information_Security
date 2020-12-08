@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Inf_Security\Inf_Security\bin\Debug\Inf_Security.exe.config
+C:\Users\User\source\repos\Inf_Security\Inf_Security\bin\Debug\Inf_Security.exe
+C:\Users\User\source\repos\Inf_Security\Inf_Security\bin\Debug\Inf_Security.pdb
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.firstForm.resources
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.Properties.Resources.resources
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.exe
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.pdb
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.secondForm.resources
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.thirdForm.resources
+C:\Users\User\source\repos\Inf_Security\Inf_Security\obj\Debug\Inf_Security.errorForm.resources
